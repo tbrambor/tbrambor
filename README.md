@@ -1,18 +1,36 @@
-# My GitHub at a Glance!
+<!-- Add this styling block for black background and white text in the first section -->
+<div style="background-color: black; padding: 20px; color: white;">
+
+# Welcome to My GitHub Show—Starring Code, Data, and Coffee!
 
 ![Profile views](https://komarev.com/ghpvc/?username=tbrambor&color=blue)
 
-## Thomas Brambor's GitHub Stats
+<!-- Row 1: GitHub Stats (left) and Top Languages (right) -->
+<div style="display: flex; justify-content: space-between;">
 
-![Profile views](https://komarev.com/ghpvc/?username=tbrambor&color=blue)
+  <div style="flex: 1; margin-right: 10px;">
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tbrambor&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=dark)
+  </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tbrambor&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=dark)
+  <div style="flex: 1; margin-left: 10px;">
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tbrambor&layout=compact&count_private=true&theme=dark&langs_count=10)
+  </div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tbrambor&theme=dark&hide_border=true)
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tbrambor&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Row 2: GitHub Streak -->
+<div style="text-align: center; margin-top: 20px;">
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=tbrambor&theme=dark&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tbrambor&layout=compact&count_private=true&theme=dark&langs_count=10)
+<!-- Row 3: GitHub Trophies with decreased size -->
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tbrambor&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="80%">
+  </a>
+</div>
+
+</div>
 
 ---
 
