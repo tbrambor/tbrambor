@@ -4,7 +4,7 @@
 
 ## Thomas Brambor's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tbrambor&show_icons=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tbrambor&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tbrambor&theme=dark)
 
