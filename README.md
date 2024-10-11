@@ -3,20 +3,20 @@
 ![Profile views](https://komarev.com/ghpvc/?username=tbrambor&color=blue)
 
 <!-- Row 1: GitHub Stats (left) and Top Languages (right) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tbrambor&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=dark" alt="GitHub Stats" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbrambor&layout=compact&count_private=true&theme=dark&langs_count=10" alt="Top Languages" style="margin-left: 10px;" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tbrambor&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=vue&hide_border=true" alt="GitHub Stats" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbrambor&layout=compact&count_private=true&theme=vue&langs_count=10&hide_border=true" alt="Top Languages" style="margin-left: 10px;" />
 </p>
 
 <!-- Row 2: GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tbrambor&theme=dark&hide_border=true" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=tbrambor&theme=vue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Row 3: GitHub Trophies with decreased size -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tbrambor&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="80%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tbrambor&theme=vue&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="80%" />
   </a>
 </p>
 
