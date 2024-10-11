@@ -4,6 +4,8 @@
 
 ## Thomas Brambor's GitHub Stats
 
+![Profile views](https://komarev.com/ghpvc/?username=tbrambor&color=blue)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tbrambor&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tbrambor&theme=dark)
