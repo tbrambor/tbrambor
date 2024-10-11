@@ -10,7 +10,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tbrambor&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tbrambor&layout=compact&count_private=true&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tbrambor&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tbrambor&layout=compact&count_private=true&theme=dark&langs_count=10)
+
 ---
 
 ### 💡 About Me
