@@ -40,15 +40,56 @@ In addition to my industry work, I teach at Columbia University, where I guide s
 
 ### 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-007ACC?style=for-the-badge&logo=openai&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Programming_Languages-F7DF1E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Science_%26_Machine_Learning-F7DF1E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_%26_Databases-F7DF1E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-100000?style=flat&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Redshift-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/R_Technologies-F7DF1E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/ggplot2-2D3E50?style=flat&logo=ggplot2&logoColor=white" />
+  <img src="https://img.shields.io/badge/dplyr-276DC3?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shiny-276DC3?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tidyverse-276DC3?style=flat&logo=r&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DevOps_%26_Cloud-F7DF1E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Web_Technologies-F7DF1E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white" />
+</p>
 
 ---
 
@@ -69,4 +110,4 @@ In addition to my industry work, I teach at Columbia University, where I guide s
   - M.A. in Economics (Stanford)  
   - B.A. in Economics & Political Science (NYU)
 
-![GitHub Contribution Graph](https://github.com/tbrambor/contributions-graph)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=tbrambor&theme=github)
