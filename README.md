@@ -89,9 +89,13 @@ In addition to my industry work, I teach at Columbia University, where I guide s
   </a>
 </p>
 
----
 
+<!--
+
+---
 ## <img src="https://media.giphy.com/media/94hx08EuLgWgmN0J02/giphy.gif" width="35"><b> Accomplishments </b>
+
+
 
 **Publications**:  
 
@@ -117,4 +121,5 @@ In addition to my industry work, I teach at Columbia University, where I guide s
   - German (Native or Bilingual)  
   - Portuguese (Limited Working)
 
+-->
 
