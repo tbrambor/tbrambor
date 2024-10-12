@@ -1,4 +1,6 @@
-# Welcome to My GitHub Show—Starring Code, Data, and Coffee!
+## Hey there! 👋 I'm Thomas Brambor
+
+I'm a Data Scientist Leader with a passion for turning data into actionable insights. Whether it’s using Python to model complex datasets, mentoring data science teams, or teaching the next generation of students, I love bridging the gap between cutting-edge technology and real-world applications.
 
 ![Profile views](https://komarev.com/ghpvc/?username=tbrambor&color=blue)
 
@@ -38,13 +40,15 @@ In addition to my industry work, I teach at Columbia University, where I guide s
 
 ### 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-blue)
-![R](https://img.shields.io/badge/-R-lightgrey)
-![SQL](https://img.shields.io/badge/-SQL-red)
-![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-orange)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
-![AI](https://img.shields.io/badge/-AI-brightgreen)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-purple)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-007ACC?style=for-the-badge&logo=openai&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
 
@@ -64,3 +68,5 @@ In addition to my industry work, I teach at Columbia University, where I guide s
   - Ph.D. in Political Science (Stanford)  
   - M.A. in Economics (Stanford)  
   - B.A. in Economics & Political Science (NYU)
+
+![GitHub Contribution Graph](https://github.com/tbrambor/contributions-graph)
