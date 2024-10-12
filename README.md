@@ -24,52 +24,51 @@ In addition to my industry work, I teach at Columbia University, where I guide s
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Programming_Languages-F7DF1E?style=flat&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
+  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" /></a>
   <br>
   <!-- Data Science & Machine Learning -->
   <img src="https://img.shields.io/badge/Data_Science_%26_Machine_Learning-F7DF1E?style=flat&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /></a>
+  <a href="https://xgboost.ai/"><img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat&logo=xgboost&logoColor=white" /></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" /></a>
+  <a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" /></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /></a>
   <br>
   <!-- SQL & Databases -->
   <img src="https://img.shields.io/badge/SQL_%26_Databases-F7DF1E?style=flat&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-100000?style=flat&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_Redshift-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <br>  
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.snowflake.com/"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" /></a>
+  <a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
+  <a href="https://www.sqlalchemy.org/"><img src="https://img.shields.io/badge/SQLAlchemy-100000?style=flat&logo=sqlalchemy&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/redshift/"><img src="https://img.shields.io/badge/Amazon_Redshift-232F3E?style=flat&logo=amazon-aws&logoColor=white" /></a>
+  <br>
   <!-- R Technologies -->
   <img src="https://img.shields.io/badge/R_Technologies-F7DF1E?style=flat&logoColor=black" />
-  <img src="https://img.shields.io/badge/ggplot2-2D3E50?style=flat&logo=ggplot2&logoColor=white" />
-  <img src="https://img.shields.io/badge/dplyr-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shiny-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tidyverse-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/leaflet-199900?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/tmap-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/highcharter-FF5733?style=flat&logo=r&logoColor=white" />
-
-  <br>  
+  <a href="https://ggplot2.tidyverse.org/"><img src="https://img.shields.io/badge/ggplot2-2D3E50?style=flat&logo=ggplot2&logoColor=white" /></a>
+  <a href="https://dplyr.tidyverse.org/"><img src="https://img.shields.io/badge/dplyr-276DC3?style=flat&logo=r&logoColor=white" /></a>
+  <a href="https://shiny.rstudio.com/"><img src="https://img.shields.io/badge/Shiny-276DC3?style=flat&logo=r&logoColor=white" /></a>
+  <a href="https://www.tidyverse.org/"><img src="https://img.shields.io/badge/Tidyverse-276DC3?style=flat&logo=r&logoColor=white" /></a>
+  <a href="https://rstudio.github.io/leaflet/"><img src="https://img.shields.io/badge/leaflet-199900?style=flat&logo=r&logoColor=white" /></a>
+  <a href="https://cran.r-project.org/web/packages/tmap/index.html"><img src="https://img.shields.io/badge/tmap-276DC3?style=flat&logo=r&logoColor=white" /></a>
+  <a href="https://jkunst.com/highcharter/"><img src="https://img.shields.io/badge/highcharter-FF5733?style=flat&logo=r&logoColor=white" /></a>
+  <br>
   <!-- DevOps & Cloud -->
   <img src="https://img.shields.io/badge/DevOps_%26_Cloud-F7DF1E?style=flat&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat&logo=poetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
-  <br>  
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
+  <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
+  <a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat&logo=poetry&logoColor=white" /></a>
+  <a href="https://docs.pytest.org/en/6.2.x/"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" /></a>
+  <br>
   <!-- Web Technologies -->
   <img src="https://img.shields.io/badge/Web_Technologies-F7DF1E?style=flat&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></a>
+  <a href="https://d3js.org/"><img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
