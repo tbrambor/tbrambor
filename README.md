@@ -16,7 +16,7 @@ In addition to my industry work, I teach at Columbia University, where I guide s
 - 🔭 I’m researching: Advanced machine learning models and their applications in media science
 - 👥 I’m mentoring: 15+ data scientists and analysts at Known
 - 🧑‍🏫 I’m teaching: Data Visualization and Programming at Columbia University
-- 🔗 Visit me on [LinkedIn](https://www.linkedin.com/in/tbrambor)
+- 🔗 Visit me on [LinkedIn](https://www.linkedin.com/in/tbrambor) to connect
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
