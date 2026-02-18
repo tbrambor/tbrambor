@@ -3,11 +3,11 @@
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="30"/> **About Me**
 ![Profile views](https://komarev.com/ghpvc/?username=tbrambor&color=blue)
 
-I build production-grade AI systems that connect rigorous statistical science with measurable commercial outcomes. My work sits at the intersection of causal inference, agentic AI architecture, and large-scale ML — designing platforms that move organizations from manual, rules-based workflows to automated, probabilistic decision-making.
+I build production-grade AI systems that connect rigorous statistical science with measurable commercial outcomes. My work sits at the intersection of causal inference, agentic AI architecture, and large-scale ML. I designing platforms that move organizations from manual, rules-based workflows to automated, probabilistic decision-making.
 
-As VP & Partner of Data Science at Known, I architect the Skeptic™ platform — an agentic AI system that orchestrates multi-step decisioning across Fortune 100 enterprises, built on MCP and A2A protocols for interoperability across complex client infrastructure. The platform has delivered $500M+ in incremental ROI across 65+ production applications.
+As VP & Partner of Data Science at Known, lead development of our Skeptic™ platform — an agentic AI system that orchestrates multi-step decisioning across Fortune 500 enterprises, built on MCP and A2A protocols for interoperability across complex client infrastructure. The platform has delivered $500M+ in incremental ROI across 65+ production applications.
 
-I also teach at Columbia University, where I supervise graduate research and run courses on data visualization and programming — keeping one foot in academic rigor while building in production.
+I also teach at Columbia University, where I supervise graduate research and run courses on data visualization and programming — keeping one foot in academia while building in production.
 
 - 🔬 **Research focus:** Causal inference, experimental design, and contextual bandits applied to commercial decisioning
 - 🏗️ **Building:** Agentic AI orchestration systems with MCP / A2A protocols
